@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Cristian Rogelio Velázquez
 
-<!--
-**cvelazquezAI/cvelazquezAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Científico de Datos Júnior | Ingeniero Industrial con formación en informática  
+🔍 Apasionado por resolver problemas complejos con datos, estadísticas y automatización  
+📈 Herramientas favoritas: Python, SQL, Power BI, Tableau, IA aplicada  
+📦 Aquí encontrarás algunos de mis proyectos favoritos más abajo
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Proyectos
+
+- **Análisis de Ventas – Vinatería La Rosita**  
+  Aumento de ventas del 83% con Power BI y predicción de demanda
+
+- **Predicción de rentabilidad petrolera – Machine Learning**  
+  Modelos de regresión y simulación de riesgo con bootstrapping
+
+- **Sistema de compras automatizado con IA**  
+  Recomendaciones inteligentes basadas en datos históricos de consumo
+
+---
+
+## 📫 Contáctame
+- [LinkedIn]([https://www.linkedin.com/in/TULINKAQUÍ](https://www.linkedin.com/in/cristian-rogelio-velazquez-robles/)
+- cristian.velazquez.ro@gmail.com
