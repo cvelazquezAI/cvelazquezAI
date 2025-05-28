@@ -21,5 +21,5 @@
 ---
 
 ## 📫 Contáctame
-- [LinkedIn]([https://www.linkedin.com/in/TULINKAQUÍ](https://www.linkedin.com/in/cristian-rogelio-velazquez-robles/)
+- [LinkedIn]([https://www.linkedin.com/in/TULINKAQUÍ](https://www.linkedin.com/in/cristian-rogelio-velazquez-robles/))
 - cristian.velazquez.ro@gmail.com
